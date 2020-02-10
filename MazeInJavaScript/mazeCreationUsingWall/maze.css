@@ -1,0 +1,13 @@
+#canvas{
+    /* make border of 5px thickness of black color with a padding of -1px */
+    border:5px solid black;
+    padding:-1px ;
+}
+
+button{
+    /* make the background-color of the button as aquamarine and width of 520 px, height of 30px and margin-top of 10px */
+    background-color: aquamarine;
+    margin-top:10px;
+    width:520px;
+    height:30px;
+}

@@ -1,0 +1,17 @@
+#cnv{
+    border:10px solid grey;
+}
+
+#timer{
+   background-color: springgreen;
+   font-size: 30px;
+   margin: 20px;
+   padding: 20px;
+   padding-left: 40px;
+   padding-right: 40px;
+}  
+
+#td{
+   margin-bottom: 40px;
+   margin-top: 40px;
+}
